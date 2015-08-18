@@ -1,2 +1,2 @@
 # SafeDriving
-The app will read out messages while you dive
+The app will read out messages when you drive
